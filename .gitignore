@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+lots_img/
+avatar_img/
+Thumbs.db
+vendor
